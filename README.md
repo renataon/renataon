@@ -13,7 +13,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Renata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Renata-CSS" height="30" width="40" 
+src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
   <img align="right" alt="Renata-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_AA4jLs3H.png">
+  
 </div>
   
   ##
