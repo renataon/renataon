@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Renata Ferreira 👋
 
 
-- 🌱 Estudante de Ciência da Computação
+- 🌱 Bacharelanda em Análise de Desenvolvimento de Sistemas
 - 📫 Caso queira falar comigo só chamar no LinkedIn
 - 😄 Pronome: Ela/Dela
 
